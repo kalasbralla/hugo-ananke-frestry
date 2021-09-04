@@ -8,6 +8,7 @@ fields:
 - type: file
   name: featured_image
   label: featured_image
+  default: "/images/notebook.jpg"
 - type: text
   name: description
   label: description
